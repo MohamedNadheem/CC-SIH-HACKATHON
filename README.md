@@ -139,4 +139,3 @@ Start collecting 50 priority plants (choose from AYUSH lists) and gather images 
 
 Produce 3D models for the top 10 plants 
 
-M
